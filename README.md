@@ -1,4 +1,4 @@
-# Node.js-MySql
+# Bamazon
 
 This is a terminal app that simulate a purchase transaction and updating the database. For this particular app the datbase is MySQL.
 
